@@ -27,7 +27,7 @@ body {
     left: 0;
     right: 0;
     color: white;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(131, 128, 129, 0.5);
 }
 
 #carousel .overlay .container,
@@ -36,19 +36,19 @@ body {
 }
 
 .btn-tecnoeduca {
-    background-color: #878b8b;
+    background-color: #803d56;
     color: white;
 }
 
 .btn-tecnoeduca:hover {
-    background-color: #b2babb;
+    background-color: hsl(332, 29%, 58%);
     color: white;
 }
 /* /MAIN */
 
 /* INFO */
 .info {
-    background-color: #343a40;
+    background-color: #6e3e51;
     color: white;
 }
 
@@ -64,7 +64,7 @@ body {
     padding: 3px 8px;
     color: #fff;
     text-align: center;
-    background-color: #007bff;
+    background-color: #be81a0;
     border-radius: 0.25rem;
 }
 .tooltip.bs-tooltip-auto[x-placement^="top"] .arrow::before,
@@ -72,13 +72,13 @@ body {
     margin-left: -3px;
     content: "";
     border-width: 5px 5px 0;
-    border-top-color: #007bff;
+    border-top-color: #af748b;
 }
 /* /TOOLTIP */
 
 /* FOOTER */
 .footer {
-    background-color: #283747;
+    background-color: #55293e;
     color: white;
 }
 
@@ -93,6 +93,6 @@ body {
 }
 
 .footerDivider {
-    background-color: #b2babb;
+    background-color: #946f7d;
 }
 /* FOOTER */

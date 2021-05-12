@@ -59,7 +59,7 @@
                             <h5 class="card-title">HTML</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk
                                 of the card's content.</p>
-                            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#htmlModal">Ver
+                            <button type="button" class="btn btn-success" data-toggle="modal" data-target="#htmlModal">Ver
                                 curso</button>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk
                                 of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Ver curso</a>
+                            <a href="#" class="btn btn-success">Ver curso</a>
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk
                                 of
                                 the card's content.</p>
-                            <a href="#" class="btn btn-primary">Ver curso</a>
+                            <a href="#" class="btn btn-success">Ver curso</a>
                         </div>
                     </div>
                 </div>
@@ -153,7 +153,7 @@
 
                         <div class="form-row">
                             <div class="col form-group">
-                                <button class="btn btn-primary btn-block">
+                                <button class="btn btn-success btn-block">
                                     Enviar
                                 </button>
                             </div>
